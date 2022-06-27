@@ -1,1 +1,2 @@
-# patientpotal
+# sadiya
+Clinic management website
